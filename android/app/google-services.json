@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "938772700168",
+    "firebase_url": "https://pricing-877a2.firebaseio.com",
+    "project_id": "pricing-877a2",
+    "storage_bucket": "pricing-877a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938772700168:android:b4b0aa988c5cea120f05bd",
+        "android_client_info": {
+          "package_name": "com.infobahnrealm.pricing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938772700168-9nlbdfrgi6a8p616oa93lkvnm1aob4dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infobahnrealm.pricing_app",
+            "certificate_hash": "082adba1017c1a0e56ce37b74f8f0cdaae6f904d"
+          }
+        },
+        {
+          "client_id": "938772700168-losb1vrmqde59e8chnv5i108ku502ijj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUs84JhahrdbLMKhRx5p5CV70-TSPq1wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938772700168-losb1vrmqde59e8chnv5i108ku502ijj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
